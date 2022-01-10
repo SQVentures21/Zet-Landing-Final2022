@@ -609,6 +609,11 @@ margin-top:100px;
       flex-direction: column;
       width:72px;
 
+      
+    .wrapper
+      {
+       margin-top:8px; 
+      }
     }
 
     .img-step-lighten
