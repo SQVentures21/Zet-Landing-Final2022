@@ -535,13 +535,13 @@ margin-top:100px;
   {
     background-image: url("assets/zetcasino_games_2x_desktop_new.webp");
     height:100vh;
-    background-size: 110% 110%;
+    background-size: 105% 105%;
     animation: shrink 5s infinite alternate;
   }
   
   @keyframes shrink {
     0% {
-      background-size: 110% 110%;
+      background-size: 105% 105%;
     }
     100% {
       background-size: 100% 100%;
@@ -626,7 +626,7 @@ margin-top:100px;
   .marquee p
   {
     margin-top:8px;
-    
+
   }
  
     .logo{
