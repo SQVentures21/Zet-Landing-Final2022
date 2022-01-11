@@ -490,6 +490,11 @@ margin-top:100px;
 {
   display: none;
 }
+  
+.marquee p
+{
+  margin-top:8px;
+}
 
 
 
