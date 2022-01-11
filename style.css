@@ -631,7 +631,8 @@ margin-top:100px;
   }
  
     .logo{
-      margin-bottom:16px;
+      margin-bottom:15px;
+      margin-top:15px;
     }
 
     .step1 , .step2 , .step3
@@ -682,17 +683,17 @@ margin-top:100px;
 
     .abs-1 
     {
-      right:6px;
+      right:2px;
     }
 
     .abs-2
     {
-      right:5px;
+      right:0px;
     }
 
     .abs-3
     {
-      right:8px;
+      right:9px;
     }
 
     .step1 , .step2 , .step3 > p
@@ -771,7 +772,6 @@ margin-top:100px;
 
   }
 
-  
-
+ 
 
 }
