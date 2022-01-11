@@ -618,6 +618,11 @@ margin-top:100px;
       width:56px;
       height:56px;
     }
+  
+  .marquee p {
+   padding-top:4px; 
+    
+  }
 
     
 
