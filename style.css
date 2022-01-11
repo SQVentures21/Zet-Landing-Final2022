@@ -618,6 +618,14 @@ margin-top:100px;
 @media only screen and (max-width: 600px) 
 {
 
+    body
+  {
+    background-image: url("assets/zetcasino_games_2x_mobile (1).webp");
+    height:100vh;
+    background-size: 105% 105%;
+    animation: shrink 5s infinite alternate;
+  }
+
   html, body {
     max-width: 100%;
     overflow-x: hidden;
