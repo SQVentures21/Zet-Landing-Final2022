@@ -641,6 +641,7 @@ margin-top:100px;
     }
     .second
     {
+
       overflow-x:hidden;
     }
 
@@ -713,6 +714,7 @@ margin-top:100px;
     {
       margin-inline:auto;
       display: flex;
+      margin-bottom:20px;
     }
 
     .day , .hour , .minute , .seconds
@@ -767,8 +769,5 @@ margin-top:100px;
     margin-top:max(9vh,15vh);
 
   }
-
-  
-
 
 }
